@@ -1,0 +1,7 @@
+#README
+
+A basic hello world project with springboot.
+
+* Home page url: http://localhost:8080/ 
+* Response body url: http://localhost:8080/helloResponseBody
+* Url parameter and modelAttribute url: http://localhost:8080/hello?name=XXXX
